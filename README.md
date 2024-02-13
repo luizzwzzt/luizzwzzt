@@ -1,7 +1,7 @@
 # Luiz Eduardo
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/vk_sweezy)](https://twitter.com/vk_sweezy) 
-[![Gmail Badge](https://img.shields.io/badge/-luiz.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.dev@gmail.com)](mailto:eduardo.dev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@vk_sweezy-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/vk_sweezy)](https://twitter.com/vk_sweezy) 
+[![Gmail Badge](https://img.shields.io/badge/-eduardo.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.dev@gmail.com)](mailto:eduardo.dev@gmail.com)
 
   I'm a programming enthusiast passionate about tackling technological challenges and the art of crafting innovative solutions through code. Since a young age, I've immersed myself in the world of programming, exploring languages like React, JavaScript, TypeScript, and C++. My fascination with technology drives me to learn constantly, seeking new skills and honing my expertise in areas such as web development, artificial intelligence, and data science.
 
